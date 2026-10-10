@@ -1,7 +1,7 @@
 #include "Sky.h"
 #include "Engine.h"
 
-void Sky::draw()
+void sky::draw()
 {
     for (int i = 0; i < SCREEN_HEIGHT; i++)
     {

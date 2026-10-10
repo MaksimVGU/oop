@@ -1,6 +1,6 @@
 #pragma once
 
-class Sky
+class sky
 {
 public:
     void draw();

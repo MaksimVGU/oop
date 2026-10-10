@@ -3,7 +3,7 @@
 #include "Sky.h"
 
 car player;
-Sky sky;
+sky sky;
 
 void initialize()
 {
